@@ -38,6 +38,7 @@ public class AddressBook extends Application {
                 Model.getInstance().shutDown();
             }
         }));
+        //hej
     }
     
 }
